@@ -1,0 +1,39 @@
+04-Dec-2017-23:34:36 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [GetPhantomJsDrvierService] -  Using PhantomJS Driver Service  
+04-Dec-2017-23:34:39 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using PhantomJs Driver  
+04-Dec-2017-23:34:39 [SeleniumWebdriver.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] -  Browser Maximize 
+04-Dec-2017-23:37:30 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [GetChromeOptions] -  Using Chrome Options 
+04-Dec-2017-23:39:15 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [GetFirefoxptions] -  Using Firefox Profile 
+04-Dec-2017-23:40:51 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [GetIEOptions] -  Using Internet Explorer Options 
+04-Dec-2017-23:41:02 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Internet Explorer Driver  
+04-Dec-2017-23:41:02 [SeleniumWebdriver.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] -  Browser Maximize 
+04-Dec-2017-23:41:21 [SeleniumWebdriver.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page http://localhost:5001/
+04-Dec-2017-23:41:30 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Id: enter_bug
+04-Dec-2017-23:42:30 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+04-Dec-2017-23:42:30 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+04-Dec-2017-23:44:12 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [TakeScreenShot] -  ScreenShot Taken : Create Bug scenario of Bugzilla.jpeg
+04-Dec-2017-23:44:33 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [TearDown] -  Stopping the Driver  
+04-Dec-2017-23:47:06 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [GetChromeOptions] -  Using Chrome Options 
+04-Dec-2017-23:56:00 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [GetChromeOptions] -  Using Chrome Options 
+04-Dec-2017-23:56:04 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+04-Dec-2017-23:56:05 [SeleniumWebdriver.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] -  Browser Maximize 
+04-Dec-2017-23:56:10 [SeleniumWebdriver.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page http://localhost:5001/
+04-Dec-2017-23:56:10 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Id: enter_bug
+04-Dec-2017-23:56:21 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+04-Dec-2017-23:56:21 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+04-Dec-2017-23:56:21 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+04-Dec-2017-23:57:44 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [GetChromeOptions] -  Using Chrome Options 
+04-Dec-2017-23:57:47 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+04-Dec-2017-23:57:48 [SeleniumWebdriver.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] -  Browser Maximize 
+04-Dec-2017-23:57:52 [SeleniumWebdriver.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page http://localhost:5001/
+04-Dec-2017-23:57:52 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Id: enter_bug
+04-Dec-2017-23:57:56 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+04-Dec-2017-23:57:56 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+04-Dec-2017-23:57:56 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+04-Dec-2017-23:59:29 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [GetChromeOptions] -  Using Chrome Options 
+04-Dec-2017-23:59:32 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+04-Dec-2017-23:59:33 [SeleniumWebdriver.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] -  Browser Maximize 
+04-Dec-2017-23:59:36 [SeleniumWebdriver.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page http://localhost:5001/
+04-Dec-2017-23:59:36 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Id: enter_bug
+04-Dec-2017-23:59:47 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+04-Dec-2017-23:59:47 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+04-Dec-2017-23:59:47 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 

@@ -1,0 +1,33 @@
+05-Dec-2017-00:09:24 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [GetChromeOptions] -  Using Chrome Options 
+05-Dec-2017-00:09:27 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+05-Dec-2017-00:09:28 [SeleniumWebdriver.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] -  Browser Maximize 
+05-Dec-2017-00:09:49 [SeleniumWebdriver.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page http://localhost:5001/
+05-Dec-2017-00:09:49 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Id: enter_bug
+05-Dec-2017-00:10:00 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+05-Dec-2017-00:10:00 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+05-Dec-2017-00:10:00 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+05-Dec-2017-00:10:08 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+05-Dec-2017-00:10:08 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+05-Dec-2017-00:10:08 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+05-Dec-2017-00:13:41 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [GetChromeOptions] -  Using Chrome Options 
+05-Dec-2017-00:13:43 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+05-Dec-2017-00:13:44 [SeleniumWebdriver.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] -  Browser Maximize 
+05-Dec-2017-00:13:49 [SeleniumWebdriver.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page http://localhost:5001/
+05-Dec-2017-00:13:49 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Id: enter_bug
+05-Dec-2017-00:13:51 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+05-Dec-2017-00:13:51 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+05-Dec-2017-00:13:51 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+05-Dec-2017-00:13:54 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+05-Dec-2017-00:13:54 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+05-Dec-2017-00:13:54 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+05-Dec-2017-00:14:58 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [GetChromeOptions] -  Using Chrome Options 
+05-Dec-2017-00:15:01 [SeleniumWebdriver.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+05-Dec-2017-00:15:02 [SeleniumWebdriver.ComponentHelper.BrowserHelper] [INFO] [BrowserMaximize] -  Browser Maximize 
+05-Dec-2017-00:15:22 [SeleniumWebdriver.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page http://localhost:5001/
+05-Dec-2017-00:15:22 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.Id: enter_bug
+05-Dec-2017-00:15:23 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+05-Dec-2017-00:15:23 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+05-Dec-2017-00:15:23 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+05-Dec-2017-00:15:24 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+05-Dec-2017-00:15:24 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+05-Dec-2017-00:15:24 [SeleniumWebdriver.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
